@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar {
+    background-color: green;
+}
+.navbar-brand {
+    background-color: cornsilk;
+}
+.navbar-nav li a {
+    color: #fff !important;
+    font-weight: 600;
+    float: right;
+    text-align: left;
+}
+
+.cards {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+  
+}
